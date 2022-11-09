@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Incite/static/css/main.073c9b0a.css",
+    "main.js": "/Incite/static/js/main.a88f49db.js",
+    "static/js/787.ebaecd04.chunk.js": "/Incite/static/js/787.ebaecd04.chunk.js",
+    "index.html": "/Incite/index.html",
+    "main.073c9b0a.css.map": "/Incite/static/css/main.073c9b0a.css.map",
+    "main.a88f49db.js.map": "/Incite/static/js/main.a88f49db.js.map",
+    "787.ebaecd04.chunk.js.map": "/Incite/static/js/787.ebaecd04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a88f49db.js"
+  ]
+}
